@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+*Technos and languages*
+![GCP](https://img.shields.io/badge/Google_Cloud-000?&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![R](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+
+
 <!--
 **geosarr/geosarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
