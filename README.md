@@ -8,6 +8,9 @@
 ![](https://img.shields.io/badge/-Windows-000?&logo=Windows)
 ![](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![](https://img.shields.io/badge/-R-000?&logo=R)
+![](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)
+![](https://img.shields.io/badge/-Github-000?&logo=Github)
 
 
 📫 You can reach me at georgesmbissanes@gmail.com 
