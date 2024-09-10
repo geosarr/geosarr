@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am currently an apprentice at DataLab Carrefour Financial Services and Insurance. I am familiar with the following technologies and languages
+🔭 I am currently a Data Science Consultant working in the financial services and for an investment bank. I am familiar with the following technologies and languages
 
 ![](https://img.shields.io/badge/Google_Cloud-000?&logo=google-cloud)
 ![](https://img.shields.io/badge/-Docker-000?&logo=Docker)
